@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-16T15:26:18.852Z",
+  "exportedAt": "2026-08-16T19:40:43.914Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -274,7 +274,6 @@
       "amount": 0,
       "startDate": "2026-01-04",
       "memberIds": [
-        "5y126cyq",
         "gdcqz8sa",
         "vh96fzd0",
         "uy629v1i",
@@ -316,7 +315,6 @@
         "ksat2xku",
         "xf5teplg",
         "t3338pc6",
-        "fod4gm8y",
         "3yia0ddk",
         "ezy5ubn0"
       ],
@@ -397,6 +395,13 @@
           "amount": 20000,
           "date": "2026-08-06",
           "note": "Transferred to her account (UBA) "
+        },
+        {
+          "id": "6zmhubcs",
+          "memberId": "fod4gm8y",
+          "amount": 5000,
+          "date": "2026-08-16",
+          "note": "Relocating "
         }
       ],
       "color": "#A6432D",
@@ -917,6 +922,14 @@
       "date": "2026-08-09"
     },
     {
+      "id": "hafytu96",
+      "planId": "nzcolv5b",
+      "memberId": "vh96fzd0",
+      "period": "2026-08-16",
+      "amount": 2000,
+      "date": "2026-08-16"
+    },
+    {
       "id": "o5lil1m7",
       "planId": "nzcolv5b",
       "memberId": "uy629v1i",
@@ -1123,6 +1136,14 @@
       "period": "2026-08-09",
       "amount": 2000,
       "date": "2026-08-09"
+    },
+    {
+      "id": "ble4qc0n",
+      "planId": "nzcolv5b",
+      "memberId": "uy629v1i",
+      "period": "2026-08-16",
+      "amount": 2000,
+      "date": "2026-08-16"
     },
     {
       "id": "d1jjtj57",
@@ -1989,6 +2010,14 @@
       "date": "2026-08-09"
     },
     {
+      "id": "lad61o04",
+      "planId": "nzcolv5b",
+      "memberId": "rv832xla",
+      "period": "2026-08-16",
+      "amount": 1000,
+      "date": "2026-08-16"
+    },
+    {
       "id": "vogvd6et",
       "planId": "nzcolv5b",
       "memberId": "fiwkrp6i",
@@ -2155,6 +2184,14 @@
       "period": "2026-08-09",
       "amount": 20000,
       "date": "2026-08-09"
+    },
+    {
+      "id": "3y0baooy",
+      "planId": "nzcolv5b",
+      "memberId": "fiwkrp6i",
+      "period": "2026-08-16",
+      "amount": 5000,
+      "date": "2026-08-16"
     },
     {
       "id": "juqhl6k9",
@@ -3157,6 +3194,14 @@
       "date": "2026-08-09"
     },
     {
+      "id": "d6kpgjii",
+      "planId": "nzcolv5b",
+      "memberId": "hgv8wgow",
+      "period": "2026-08-16",
+      "amount": 2300,
+      "date": "2026-08-16"
+    },
+    {
       "id": "4jws4acy",
       "planId": "nzcolv5b",
       "memberId": "xddlmox5",
@@ -3717,6 +3762,14 @@
       "date": "2026-05-24"
     },
     {
+      "id": "g1prep1p",
+      "planId": "nzcolv5b",
+      "memberId": "q46vh9x1",
+      "period": "2026-08-16",
+      "amount": 1000,
+      "date": "2026-08-16"
+    },
+    {
       "id": "8jjpdpcu",
       "planId": "nzcolv5b",
       "memberId": "ph0pg467",
@@ -3949,6 +4002,14 @@
       "date": "2026-07-05"
     },
     {
+      "id": "0clug1xy",
+      "planId": "nzcolv5b",
+      "memberId": "ezy5ubn0",
+      "period": "2026-08-16",
+      "amount": 2500,
+      "date": "2026-08-16"
+    },
+    {
       "id": "kka09qdi",
       "planId": "95pini4q",
       "memberId": "1hxhgk3y",
@@ -3963,62 +4024,6 @@
       "period": "2026-08-09",
       "amount": 20500,
       "date": "2026-08-10"
-    },
-    {
-      "id": "0clug1xy",
-      "planId": "nzcolv5b",
-      "memberId": "ezy5ubn0",
-      "period": "2026-08-16",
-      "amount": 2500,
-      "date": "2026-08-16"
-    },
-    {
-      "id": "3y0baooy",
-      "planId": "nzcolv5b",
-      "memberId": "fiwkrp6i",
-      "period": "2026-08-16",
-      "amount": 5000,
-      "date": "2026-08-16"
-    },
-    {
-      "id": "lad61o04",
-      "planId": "nzcolv5b",
-      "memberId": "rv832xla",
-      "period": "2026-08-16",
-      "amount": 1000,
-      "date": "2026-08-16"
-    },
-    {
-      "id": "ble4qc0n",
-      "planId": "nzcolv5b",
-      "memberId": "uy629v1i",
-      "period": "2026-08-16",
-      "amount": 2000,
-      "date": "2026-08-16"
-    },
-    {
-      "id": "hafytu96",
-      "planId": "nzcolv5b",
-      "memberId": "vh96fzd0",
-      "period": "2026-08-16",
-      "amount": 2000,
-      "date": "2026-08-16"
-    },
-    {
-      "id": "d6kpgjii",
-      "planId": "nzcolv5b",
-      "memberId": "hgv8wgow",
-      "period": "2026-08-16",
-      "amount": 2300,
-      "date": "2026-08-16"
-    },
-    {
-      "id": "g1prep1p",
-      "planId": "nzcolv5b",
-      "memberId": "q46vh9x1",
-      "period": "2026-08-16",
-      "amount": 1000,
-      "date": "2026-08-16"
     }
   ],
   "loansGiven": [
@@ -4388,7 +4393,7 @@
           "id": "klv96mai",
           "type": "borrow",
           "amount": 60000,
-          "date": "2026-08-11",
+          "date": "2026-08-14",
           "note": "Business"
         },
         {
@@ -4607,6 +4612,34 @@
           "amount": 39000,
           "date": "2026-08-11",
           "note": ""
+        },
+        {
+          "id": "rytrq5e6",
+          "type": "payment",
+          "amount": 60000,
+          "date": "2026-08-14",
+          "note": ""
+        },
+        {
+          "id": "97do7ea2",
+          "type": "borrow",
+          "amount": 106250,
+          "date": "2026-08-15",
+          "note": "Business"
+        },
+        {
+          "id": "sww53rq8",
+          "type": "payment",
+          "amount": 47000,
+          "date": "2026-08-15",
+          "note": ""
+        },
+        {
+          "id": "fawrpixj",
+          "type": "borrow",
+          "amount": 10000,
+          "date": "2026-08-15",
+          "note": "Nylon"
         }
       ]
     }
@@ -33467,5 +33500,50 @@
       "filedAt": null
     }
   ],
-  "dismissedAlerts": []
+  "dismissedAlerts": [
+    "miss-nzcolv5bktn9wqmo",
+    "miss-nzcolv5bgdcqz8sa",
+    "miss-nzcolv5bvh96fzd0",
+    "miss-nzcolv5buy629v1i",
+    "miss-nzcolv5bgn7vy7n8",
+    "miss-nzcolv5bz30p9lm1",
+    "miss-nzcolv5b2pb3jtps",
+    "miss-nzcolv5byv89xqgk",
+    "miss-nzcolv5b68p8eo7y",
+    "miss-nzcolv5bau13xbo8",
+    "miss-nzcolv5bi0gfoxtk",
+    "miss-nzcolv5bbbe49um3",
+    "miss-nzcolv5bqrujh1qw",
+    "miss-nzcolv5b9c3r0zzs",
+    "miss-nzcolv5brv832xla",
+    "miss-nzcolv5bfiwkrp6i",
+    "miss-nzcolv5bseb1jzoh",
+    "miss-nzcolv5b0dbt2acz",
+    "miss-nzcolv5b85c4zaev",
+    "miss-nzcolv5bfemtkdqc",
+    "miss-nzcolv5bnzo2xgzr",
+    "miss-nzcolv5bh9kr807w",
+    "miss-nzcolv5brzjzkq78",
+    "miss-nzcolv5b9n6j2tmm",
+    "miss-nzcolv5besdills4",
+    "miss-nzcolv5b4u7afrjs",
+    "miss-nzcolv5b9n2dtmww",
+    "miss-nzcolv5b1b3pa78d",
+    "miss-nzcolv5bhgv8wgow",
+    "miss-nzcolv5bxddlmox5",
+    "miss-nzcolv5bu3a4qqf7",
+    "miss-nzcolv5b25hm8y8e",
+    "miss-nzcolv5bx0gb30no",
+    "miss-nzcolv5b1hxhgk3y",
+    "miss-nzcolv5bhw6nc8bn",
+    "miss-nzcolv5bc68ote6b",
+    "miss-nzcolv5bq46vh9x1",
+    "miss-nzcolv5bph0pg467",
+    "miss-nzcolv5bksat2xku",
+    "miss-nzcolv5bxf5teplg",
+    "miss-nzcolv5bt3338pc6",
+    "miss-nzcolv5b3yia0ddk",
+    "miss-nzcolv5bezy5ubn0",
+    "lg-afmph669"
+  ]
 }
