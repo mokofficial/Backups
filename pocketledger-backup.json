@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-16T14:17:05.072Z",
+  "exportedAt": "2026-08-16T15:26:18.852Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -4010,6 +4010,14 @@
       "memberId": "hgv8wgow",
       "period": "2026-08-16",
       "amount": 2300,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "g1prep1p",
+      "planId": "nzcolv5b",
+      "memberId": "q46vh9x1",
+      "period": "2026-08-16",
+      "amount": 1000,
       "date": "2026-08-16"
     }
   ],
