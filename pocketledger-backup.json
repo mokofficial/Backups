@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-16T12:51:40.425Z",
+  "exportedAt": "2026-08-16T14:17:05.072Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -3970,6 +3970,46 @@
       "memberId": "ezy5ubn0",
       "period": "2026-08-16",
       "amount": 2500,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "3y0baooy",
+      "planId": "nzcolv5b",
+      "memberId": "fiwkrp6i",
+      "period": "2026-08-16",
+      "amount": 5000,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "lad61o04",
+      "planId": "nzcolv5b",
+      "memberId": "rv832xla",
+      "period": "2026-08-16",
+      "amount": 1000,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "ble4qc0n",
+      "planId": "nzcolv5b",
+      "memberId": "uy629v1i",
+      "period": "2026-08-16",
+      "amount": 2000,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "hafytu96",
+      "planId": "nzcolv5b",
+      "memberId": "vh96fzd0",
+      "period": "2026-08-16",
+      "amount": 2000,
+      "date": "2026-08-16"
+    },
+    {
+      "id": "d6kpgjii",
+      "planId": "nzcolv5b",
+      "memberId": "hgv8wgow",
+      "period": "2026-08-16",
+      "amount": 2300,
       "date": "2026-08-16"
     }
   ],
