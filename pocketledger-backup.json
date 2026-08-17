@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-17T15:58:33.256Z",
+  "exportedAt": "2026-08-17T16:01:30.210Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -33584,6 +33584,10 @@
     "plans": {
       "text": "MOM PERSONAL SAVINGS\nMom switched from 20,500 to 25,000 on August 16,2026. so the third payment circle records all the additions of the previous 2 circles",
       "updatedAt": "2026-08-17T00:08:33.276Z"
+    },
+    "loansTabs": {
+      "text": "Happiness gave Blessing 89k.20k used to offset her loan and I transferred 69k to receive cash which was given to Bright to send to my account",
+      "updatedAt": "2026-08-17T16:01:22.953Z"
     }
   }
 }
