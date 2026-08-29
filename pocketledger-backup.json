@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-29T19:20:20.310Z",
+  "exportedAt": "2026-08-29T22:40:32.079Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -4586,6 +4586,20 @@
           "amount": 20000,
           "date": "2026-08-29",
           "note": "Business"
+        },
+        {
+          "id": "dtag2kjl",
+          "type": "payment",
+          "amount": 170000,
+          "date": "2026-08-29",
+          "note": ""
+        },
+        {
+          "id": "zrec9ssl",
+          "type": "borrow",
+          "amount": 70000,
+          "date": "2026-08-25",
+          "note": "Mom Business"
         }
       ]
     },
@@ -4900,6 +4914,13 @@
           "type": "payment",
           "amount": 20000,
           "date": "2026-08-29",
+          "note": ""
+        },
+        {
+          "id": "i4gdf6ew",
+          "type": "payment",
+          "amount": 70000,
+          "date": "2026-08-25",
           "note": ""
         }
       ]
