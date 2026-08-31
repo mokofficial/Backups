@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-31T18:15:48.547Z",
+  "exportedAt": "2026-08-31T19:39:32.086Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -4543,7 +4543,7 @@
           "id": "c23obri6",
           "type": "borrow",
           "amount": 400000,
-          "date": "2026-08-13",
+          "date": "2026-08-14",
           "note": "Mom gave to keep for Bassey"
         },
         {
@@ -4615,6 +4615,20 @@
           "amount": 35000,
           "date": "2026-08-31",
           "note": "Mom thrift and business"
+        },
+        {
+          "id": "hv3z6fr7",
+          "type": "payment",
+          "amount": 70000,
+          "date": "2026-08-22",
+          "note": "Refund Mom Flourish"
+        },
+        {
+          "id": "g66qk3qt",
+          "type": "borrow",
+          "amount": 30000,
+          "date": "2026-08-31",
+          "note": "Business"
         }
       ]
     },
