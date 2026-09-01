@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-09-01T08:41:48.845Z",
+  "exportedAt": "2026-09-01T10:11:44.369Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -4636,13 +4636,6 @@
           "note": ""
         },
         {
-          "id": "c23obri6",
-          "type": "borrow",
-          "amount": 400000,
-          "date": "2026-08-14",
-          "note": "Mom gave to keep for Bassey"
-        },
-        {
           "id": "cxytmewa",
           "type": "borrow",
           "amount": 25000,
@@ -4725,6 +4718,13 @@
           "amount": 30000,
           "date": "2026-08-31",
           "note": "Business"
+        },
+        {
+          "id": "d7ozbxaj",
+          "type": "borrow",
+          "amount": 29000,
+          "date": "2026-09-01",
+          "note": "Church Thrift Money for 30 Aug. 2026"
         }
       ]
     },
@@ -4986,25 +4986,11 @@
           "note": "Business"
         },
         {
-          "id": "4exx66s6",
-          "type": "borrow",
-          "amount": 100000,
-          "date": "2026-08-23",
-          "note": "Sent to Ebenezer"
-        },
-        {
           "id": "pav3yrwk",
           "type": "borrow",
           "amount": 112000,
           "date": "2026-08-23",
           "note": "Sent to Agemoh"
-        },
-        {
-          "id": "wng56gw2",
-          "type": "borrow",
-          "amount": 200000,
-          "date": "2026-08-22",
-          "note": "Sent to Ebenezer"
         },
         {
           "id": "scc7cq5b",
@@ -5052,14 +5038,14 @@
           "id": "0de8rohm",
           "type": "payment",
           "amount": 10000,
-          "date": "2026-08-30",
+          "date": "2026-08-31",
           "note": "Business"
         },
         {
           "id": "k3nxjsge",
           "type": "borrow",
           "amount": 10000,
-          "date": "2026-08-30",
+          "date": "2026-08-31",
           "note": "Nylon"
         },
         {
@@ -5068,6 +5054,13 @@
           "amount": 116200,
           "date": "2026-09-01",
           "note": "Sent to Agemoh"
+        },
+        {
+          "id": "m2tnxqov",
+          "type": "payment",
+          "amount": 30000,
+          "date": "2026-08-31",
+          "note": "Business"
         }
       ]
     }
@@ -34046,8 +34039,8 @@
       "updatedAt": "2026-08-17T00:08:33.276Z"
     },
     "loansTabs": {
-      "text": "Happiness gave Blessing 89k.20k used to offset her loan and I transferred 69k to receive cash which was given to Bright to send to my account",
-      "updatedAt": "2026-08-17T16:01:22.953Z"
+      "text": "Happiness gave Blessing 89k.20k used to offset her loan and I transferred 69k to receive cash which was given to Bright to send to my account\n\n\nOn 14th August, Mom gave Bright 400k from Bassey\nOn 21st August, Bright sent 200k to be sent to Ebenezer\nOn 22nd August, Bright sent 100k to be sent to Ebenezer\nOn 22nd August, I sent the 200k to Ebenezer from Palmpay \nOn 23rd August, I sent the 100k to Ebenezer from Providus\nBalance left from Bright is 100k",
+      "updatedAt": "2026-09-01T09:53:34.047Z"
     }
   }
 }
