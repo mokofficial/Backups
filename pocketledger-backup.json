@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-09-01T00:33:26.641Z",
+  "exportedAt": "2026-09-01T08:41:48.845Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -794,6 +794,14 @@
       "date": "2026-08-09"
     },
     {
+      "id": "t2gp2a8z",
+      "planId": "nzcolv5b",
+      "memberId": "gdcqz8sa",
+      "period": "2026-08-30",
+      "amount": 1000,
+      "date": "2026-08-30"
+    },
+    {
       "id": "4taiuhnj",
       "planId": "nzcolv5b",
       "memberId": "vh96fzd0",
@@ -944,6 +952,14 @@
       "period": "2026-08-16",
       "amount": 2000,
       "date": "2026-08-16"
+    },
+    {
+      "id": "xr81hw7q",
+      "planId": "nzcolv5b",
+      "memberId": "vh96fzd0",
+      "period": "2026-08-30",
+      "amount": 2000,
+      "date": "2026-08-30"
     },
     {
       "id": "o5lil1m7",
@@ -1160,6 +1176,14 @@
       "period": "2026-08-16",
       "amount": 2000,
       "date": "2026-08-16"
+    },
+    {
+      "id": "pteurjhh",
+      "planId": "nzcolv5b",
+      "memberId": "uy629v1i",
+      "period": "2026-08-30",
+      "amount": 2000,
+      "date": "2026-08-30"
     },
     {
       "id": "d1jjtj57",
@@ -1762,6 +1786,14 @@
       "date": "2026-08-22"
     },
     {
+      "id": "2vemat86",
+      "planId": "nzcolv5b",
+      "memberId": "au13xbo8",
+      "period": "2026-08-30",
+      "amount": 5000,
+      "date": "2026-08-30"
+    },
+    {
       "id": "kv21y6e4",
       "planId": "nzcolv5b",
       "memberId": "i0gfoxtk",
@@ -2042,6 +2074,14 @@
       "date": "2026-08-16"
     },
     {
+      "id": "935qlhoo",
+      "planId": "nzcolv5b",
+      "memberId": "rv832xla",
+      "period": "2026-08-30",
+      "amount": 3000,
+      "date": "2026-08-30"
+    },
+    {
       "id": "vogvd6et",
       "planId": "nzcolv5b",
       "memberId": "fiwkrp6i",
@@ -2216,6 +2256,14 @@
       "period": "2026-08-16",
       "amount": 5000,
       "date": "2026-08-16"
+    },
+    {
+      "id": "ij3kv4qq",
+      "planId": "nzcolv5b",
+      "memberId": "fiwkrp6i",
+      "period": "2026-08-30",
+      "amount": 5000,
+      "date": "2026-08-30"
     },
     {
       "id": "juqhl6k9",
@@ -2704,6 +2752,14 @@
       "period": "2026-08-09",
       "amount": 5000,
       "date": "2026-08-09"
+    },
+    {
+      "id": "6lf8rpwd",
+      "planId": "nzcolv5b",
+      "memberId": "rzjzkq78",
+      "period": "2026-08-30",
+      "amount": 1000,
+      "date": "2026-08-30"
     },
     {
       "id": "dizktehs",
@@ -3458,6 +3514,14 @@
       "date": "2026-08-09"
     },
     {
+      "id": "jiryllf4",
+      "planId": "nzcolv5b",
+      "memberId": "u3a4qqf7",
+      "period": "2026-08-30",
+      "amount": 1000,
+      "date": "2026-08-30"
+    },
+    {
       "id": "1pnyxoei",
       "planId": "nzcolv5b",
       "memberId": "25hm8y8e",
@@ -3528,6 +3592,14 @@
       "period": "2026-08-09",
       "amount": 2500,
       "date": "2026-08-09"
+    },
+    {
+      "id": "1r7cx7bl",
+      "planId": "nzcolv5b",
+      "memberId": "25hm8y8e",
+      "period": "2026-08-30",
+      "amount": 2500,
+      "date": "2026-08-30"
     },
     {
       "id": "wvhjm3vo",
@@ -3720,6 +3792,14 @@
       "period": "2026-08-09",
       "amount": 2000,
       "date": "2026-08-09"
+    },
+    {
+      "id": "6bxfofjx",
+      "planId": "nzcolv5b",
+      "memberId": "hw6nc8bn",
+      "period": "2026-08-30",
+      "amount": 5000,
+      "date": "2026-08-30"
     },
     {
       "id": "h3jog7e7",
@@ -4026,12 +4106,28 @@
       "date": "2026-07-05"
     },
     {
+      "id": "3wszs1ov",
+      "planId": "nzcolv5b",
+      "memberId": "3yia0ddk",
+      "period": "2026-08-30",
+      "amount": 1000,
+      "date": "2026-08-30"
+    },
+    {
       "id": "0clug1xy",
       "planId": "nzcolv5b",
       "memberId": "ezy5ubn0",
       "period": "2026-08-16",
       "amount": 2500,
       "date": "2026-08-16"
+    },
+    {
+      "id": "u2tdenof",
+      "planId": "nzcolv5b",
+      "memberId": "ezy5ubn0",
+      "period": "2026-08-30",
+      "amount": 500,
+      "date": "2026-08-30"
     },
     {
       "id": "c5zc84dr",
@@ -4079,102 +4175,6 @@
       "memberId": "1hxhgk3y",
       "period": "2026-08-30",
       "amount": 25000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "ij3kv4qq",
-      "planId": "nzcolv5b",
-      "memberId": "fiwkrp6i",
-      "period": "2026-08-30",
-      "amount": 5000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "2vemat86",
-      "planId": "nzcolv5b",
-      "memberId": "au13xbo8",
-      "period": "2026-08-30",
-      "amount": 5000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "xr81hw7q",
-      "planId": "nzcolv5b",
-      "memberId": "vh96fzd0",
-      "period": "2026-08-30",
-      "amount": 2000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "t2gp2a8z",
-      "planId": "nzcolv5b",
-      "memberId": "gdcqz8sa",
-      "period": "2026-08-30",
-      "amount": 1000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "3wszs1ov",
-      "planId": "nzcolv5b",
-      "memberId": "3yia0ddk",
-      "period": "2026-08-30",
-      "amount": 1000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "pteurjhh",
-      "planId": "nzcolv5b",
-      "memberId": "uy629v1i",
-      "period": "2026-08-30",
-      "amount": 2000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "6lf8rpwd",
-      "planId": "nzcolv5b",
-      "memberId": "rzjzkq78",
-      "period": "2026-08-30",
-      "amount": 1000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "jiryllf4",
-      "planId": "nzcolv5b",
-      "memberId": "u3a4qqf7",
-      "period": "2026-08-30",
-      "amount": 1000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "u2tdenof",
-      "planId": "nzcolv5b",
-      "memberId": "ezy5ubn0",
-      "period": "2026-08-30",
-      "amount": 500,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "1r7cx7bl",
-      "planId": "nzcolv5b",
-      "memberId": "25hm8y8e",
-      "period": "2026-08-30",
-      "amount": 2500,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "6bxfofjx",
-      "planId": "nzcolv5b",
-      "memberId": "hw6nc8bn",
-      "period": "2026-08-30",
-      "amount": 5000,
-      "date": "2026-08-30"
-    },
-    {
-      "id": "935qlhoo",
-      "planId": "nzcolv5b",
-      "memberId": "rv832xla",
-      "period": "2026-08-30",
-      "amount": 3000,
       "date": "2026-08-30"
     }
   ],
@@ -5061,6 +5061,13 @@
           "amount": 10000,
           "date": "2026-08-30",
           "note": "Nylon"
+        },
+        {
+          "id": "0g71x7rw",
+          "type": "borrow",
+          "amount": 116200,
+          "date": "2026-09-01",
+          "note": "Sent to Agemoh"
         }
       ]
     }
