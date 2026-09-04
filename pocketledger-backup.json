@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-09-03T21:19:09.603Z",
+  "exportedAt": "2026-09-04T09:23:08.576Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -4727,6 +4727,13 @@
           "amount": 29000,
           "date": "2026-09-01",
           "note": "Church thrift"
+        },
+        {
+          "id": "49kvm7tx",
+          "type": "borrow",
+          "amount": 50000,
+          "date": "2026-09-04",
+          "note": "Business"
         }
       ]
     },
@@ -5056,6 +5063,13 @@
           "amount": 116200,
           "date": "2026-09-01",
           "note": "Sent to Agemoh"
+        },
+        {
+          "id": "wc24urfr",
+          "type": "payment",
+          "amount": 50000,
+          "date": "2026-09-04",
+          "note": "Business"
         }
       ]
     }
