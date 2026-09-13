@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-09-13T22:25:14.731Z",
+  "exportedAt": "2026-09-13T22:31:31.188Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -4903,6 +4903,20 @@
           "amount": 20000,
           "date": "2026-09-12",
           "note": "Business"
+        },
+        {
+          "id": "ynurbnlt",
+          "type": "borrow",
+          "amount": 40000,
+          "date": "2026-09-13",
+          "note": "Business"
+        },
+        {
+          "id": "cu448zov",
+          "type": "borrow",
+          "amount": 28000,
+          "date": "2026-09-13",
+          "note": "Church Thrift"
         }
       ]
     },
@@ -5239,6 +5253,27 @@
           "amount": 50000,
           "date": "2026-09-04",
           "note": "Business"
+        },
+        {
+          "id": "zvgw0d4l",
+          "type": "payment",
+          "amount": 20000,
+          "date": "2026-09-12",
+          "note": ""
+        },
+        {
+          "id": "2idhl3bd",
+          "type": "payment",
+          "amount": 20000,
+          "date": "2026-09-12",
+          "note": ""
+        },
+        {
+          "id": "pv9l6n7q",
+          "type": "payment",
+          "amount": 40000,
+          "date": "2026-09-13",
+          "note": ""
         }
       ]
     }
