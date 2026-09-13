@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-09-13T20:46:35.239Z",
+  "exportedAt": "2026-09-13T22:25:14.731Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -1808,6 +1808,14 @@
       "period": "2026-09-06",
       "amount": 5000,
       "date": "2026-09-06"
+    },
+    {
+      "id": "qr0g8mmr",
+      "planId": "nzcolv5b",
+      "memberId": "au13xbo8",
+      "period": "2026-09-13",
+      "amount": 15000,
+      "date": "2026-09-13"
     },
     {
       "id": "kv21y6e4",
@@ -4274,11 +4282,35 @@
       "date": "2026-09-06"
     },
     {
-      "id": "qr0g8mmr",
+      "id": "a2g62ndg",
       "planId": "nzcolv5b",
-      "memberId": "au13xbo8",
+      "memberId": "gn7vy7n8",
       "period": "2026-09-13",
-      "amount": 15000,
+      "amount": 1000,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "ko03uvu2",
+      "planId": "nzcolv5b",
+      "memberId": "rv832xla",
+      "period": "2026-09-13",
+      "amount": 3000,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "0ylgvvjy",
+      "planId": "nzcolv5b",
+      "memberId": "seb1jzoh",
+      "period": "2026-09-13",
+      "amount": 5000,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "9g0hzcw9",
+      "planId": "nzcolv5b",
+      "memberId": "uy629v1i",
+      "period": "2026-09-13",
+      "amount": 4000,
       "date": "2026-09-13"
     }
   ],
