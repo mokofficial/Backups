@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-09-13T08:14:38.646Z",
+  "exportedAt": "2026-09-13T20:46:35.239Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -4272,6 +4272,14 @@
       "period": "2026-09-06",
       "amount": 25000,
       "date": "2026-09-06"
+    },
+    {
+      "id": "qr0g8mmr",
+      "planId": "nzcolv5b",
+      "memberId": "au13xbo8",
+      "period": "2026-09-13",
+      "amount": 15000,
+      "date": "2026-09-13"
     }
   ],
   "loansGiven": [
