@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-12T22:27:04.993Z",
+  "exportedAt": "2026-10-12T22:34:57.327Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -5273,18 +5273,11 @@
           "note": ""
         },
         {
-          "id": "qkgvznm7",
+          "id": "xi1o3es6",
           "type": "borrow",
-          "amount": 70000,
-          "date": "2026-10-10",
-          "note": "Sent from mom 50k and 20k"
-        },
-        {
-          "id": "3a90ygyx",
-          "type": "borrow",
-          "amount": 10000,
-          "date": "2026-10-11",
-          "note": "Sent from mom"
+          "amount": 150000,
+          "date": "2026-10-13",
+          "note": "100k for mom business refund, 50k = church thrift"
         }
       ]
     },
@@ -5700,18 +5693,11 @@
           "note": "Sent to Agemoh for goods"
         },
         {
-          "id": "u5m6ft09",
+          "id": "kt8twgrp",
           "type": "payment",
-          "amount": 70000,
-          "date": "2026-10-10",
-          "note": "Sent to bright in 2 installments of 50k and 20k"
-        },
-        {
-          "id": "5cc9d9zv",
-          "type": "payment",
-          "amount": 10000,
-          "date": "2026-10-11",
-          "note": "Sent to bright"
+          "amount": 100000,
+          "date": "2026-10-12",
+          "note": "In installments to Blessing"
         }
       ]
     }
