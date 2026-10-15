@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-14T22:43:07.087Z",
+  "exportedAt": "2026-10-15T09:37:09.613Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -4756,9 +4756,28 @@
       "id": "1leih975",
       "name": "Aaidee",
       "phone": "+234 816 129 1435"
+    },
+    {
+      "id": "i9l1yxps",
+      "name": "Morris",
+      "phone": ""
     }
   ],
   "loanTabs": [
+    {
+      "id": "g8rgkbv0",
+      "contactId": "i9l1yxps",
+      "note": "",
+      "entries": [
+        {
+          "id": "jna8gooo",
+          "type": "borrow",
+          "amount": 10000,
+          "date": "2026-10-15",
+          "note": "Nylon money"
+        }
+      ]
+    },
     {
       "id": "121xytwb",
       "contactId": "zecoee0z",
@@ -5302,6 +5321,13 @@
           "amount": 175000,
           "date": "2026-10-13",
           "note": "100k for mom business refund, 50k = church thrift, 25k for mom thrift"
+        },
+        {
+          "id": "fcfqkzk9",
+          "type": "payment",
+          "amount": 175000,
+          "date": "2026-10-14",
+          "note": ""
         }
       ]
     },
