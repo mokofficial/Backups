@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-18T13:20:30.457Z",
+  "exportedAt": "2026-10-18T17:47:29.015Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -4600,6 +4600,86 @@
       "period": "2026-10-18",
       "amount": 25000,
       "date": "2026-10-14"
+    },
+    {
+      "id": "3kaoxp5f",
+      "planId": "nzcolv5b",
+      "memberId": "bbe49um3",
+      "period": "2026-10-18",
+      "amount": 1000,
+      "date": "2026-10-18"
+    },
+    {
+      "id": "321oxy35",
+      "planId": "nzcolv5b",
+      "memberId": "xddlmox5",
+      "period": "2026-10-18",
+      "amount": 2000,
+      "date": "2026-10-18"
+    },
+    {
+      "id": "qy8di265",
+      "planId": "nzcolv5b",
+      "memberId": "x0gb30no",
+      "period": "2026-10-18",
+      "amount": 2000,
+      "date": "2026-10-18"
+    },
+    {
+      "id": "69q8g0cd",
+      "planId": "nzcolv5b",
+      "memberId": "au13xbo8",
+      "period": "2026-10-18",
+      "amount": 10000,
+      "date": "2026-10-18"
+    },
+    {
+      "id": "5luwl7fj",
+      "planId": "nzcolv5b",
+      "memberId": "fiwkrp6i",
+      "period": "2026-10-18",
+      "amount": 5000,
+      "date": "2026-10-18"
+    },
+    {
+      "id": "qg39e3t1",
+      "planId": "nzcolv5b",
+      "memberId": "gdcqz8sa",
+      "period": "2026-10-18",
+      "amount": 1000,
+      "date": "2026-10-18"
+    },
+    {
+      "id": "zdpyaxeq",
+      "planId": "nzcolv5b",
+      "memberId": "vh96fzd0",
+      "period": "2026-10-18",
+      "amount": 3000,
+      "date": "2026-10-18"
+    },
+    {
+      "id": "fuzb6814",
+      "planId": "nzcolv5b",
+      "memberId": "rv832xla",
+      "period": "2026-10-18",
+      "amount": 3000,
+      "date": "2026-10-18"
+    },
+    {
+      "id": "61gwl7hp",
+      "planId": "nzcolv5b",
+      "memberId": "25hm8y8e",
+      "period": "2026-10-18",
+      "amount": 2500,
+      "date": "2026-10-18"
+    },
+    {
+      "id": "29shn5xd",
+      "planId": "nzcolv5b",
+      "memberId": "uy629v1i",
+      "period": "2026-10-18",
+      "amount": 2000,
+      "date": "2026-10-18"
     }
   ],
   "loansGiven": [
