@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-10-23T00:24:15.183Z",
+  "exportedAt": "2026-10-23T20:00:05.832Z",
   "users": [
     {
       "id": "1lq5ojiz",
@@ -5444,6 +5444,13 @@
           "amount": 120000,
           "date": "2026-10-22",
           "note": "I GAVE TO BRIGHT"
+        },
+        {
+          "id": "k24vpnf4",
+          "type": "borrow",
+          "amount": 30000,
+          "date": "2026-10-23",
+          "note": ""
         }
       ]
     },
@@ -5892,6 +5899,13 @@
           "amount": 120000,
           "date": "2026-10-22",
           "note": "I SENT TO BRIGHT WHEN BLESSING HAND OVER THE MONEY TO ME TO GO TO OSHODI"
+        },
+        {
+          "id": "9hrnpiic",
+          "type": "payment",
+          "amount": 30000,
+          "date": "2026-10-23",
+          "note": "SENT TO BRIGHT THROUGH PECULIAR"
         }
       ]
     }
